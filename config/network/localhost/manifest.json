@@ -1,7 +1,7 @@
 {
     "serverAddress": "Dirección General",
     "serverName": "Dirección Federal de Analisis Estratégico",
-    "iconName": "DFAE.jpg",
+    "iconName": "config/network/localhost/DFAE.jpg",
     "terminalID": "1116",
     "defaultUser": {
         "userId": "user",
