@@ -4,9 +4,9 @@
     "iconName": "DFAE.jpg",
     "terminalID": "1116",
     "defaultUser": {
-        "userId": "user",
+        "userId": "usuario",
         "password": "",
-        "userName": "anonymous"
+        "userName": "anonimo"
     },
     "initialHistory": {
         "user": [
